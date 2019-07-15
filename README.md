@@ -41,7 +41,7 @@ pip install pandas
 pip install seaborn 
 pip install matplotlib
 ```
-Jupyter Notebook Installation Guide [Click](https://jupyter.org/install)
+Jupyter Notebook Installation Guide [Click Here](https://jupyter.org/install)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
